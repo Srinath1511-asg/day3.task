@@ -1,6 +1,12 @@
 # day3.task
 This is a simple Java console-based Library Management System to view, issue, and return books. It uses core OOP concepts like classes, objects, and encapsulation.
 #All three classes present in day3.task package.
+Srinath1511-asg/
+├── Book.java # Class representing a book
+├── User.java # displaying the user details
+├── Library.java # Main class with menu and logic
+├── .gitignore # Git ignore file
+└── README.md # Project documentation
 
 🔧 Features
 ✅ View all books with status (issued or not)
